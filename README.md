@@ -12,4 +12,4 @@ A collection of useful SQL databases I've built for various reasons
   - quran.sql                - Verses of the Quran
   - bible.sql                - Verses if the Bible
   - US-islamic-centers.sql   - List of Islamic Centers and Masjids in the US
-  
+  - US-christian-churches.sql- List of Christian churches in the US
